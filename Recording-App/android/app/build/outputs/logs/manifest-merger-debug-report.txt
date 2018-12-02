@@ -1,0 +1,193 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:1:1-41:12
+MERGED from [:react-native-sound] /Users/winnie/Desktop/CallRecorder/node_modules/react-native-sound/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-audio] /Users/winnie/Desktop/CallRecorder/node_modules/react-native-audio/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.57.7] /Users/winnie/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/550dfcc71aa28fc2002ebd8a163f74d8/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/winnie/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c373db89a267649ca794ddbe957d904d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/winnie/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/a081cda63e484151e4240b609c41c7f5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/winnie/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/78a155f1d933e2fa21082d4dcdcc9753/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/winnie/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/d815eceb6f17f30068a605d48cd6a1a9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/winnie/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/f0fb3d8b0fe9b474033643eefba044ef/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/winnie/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/aebb2d7102cdee74fe68cc026222bae5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/winnie/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/f4a550b1edee11858681dbd86323e529/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/winnie/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/eeeecd00e3fd702735a72055751214a2/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/winnie/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/7e197545da88205f8a3e89fbd9ea3dcb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/winnie/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/cafb6bd2703dc836cb11c10170e313c9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/winnie/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/3a324051d32e621b7ad9646fbb0d2869/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/winnie/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/856bafc0ebdc7ce95b7f6dfeceec9b2b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/winnie/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/04d687adf56334ee63559f926ba8a347/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/winnie/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/bce6a8fbf3a347f32870b862a770f949/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/winnie/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/258df20ba2131c9b9e816ea6e8f86503/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/winnie/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7d158825d13e4ef62fda759195e94a7d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/winnie/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/b29f318a88b597fb2d50b71342337b00/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/winnie/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/857703cdc450c79dd83038f39c38e9fd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/winnie/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2cc529319ab17aa385b4853ec1383f8c/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:1:1-41:12
+	package
+		ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:2:5-31
+		INJECTED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:1:1-41:12
+		INJECTED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:1:1-41:12
+		INJECTED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.7] /Users/winnie/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/550dfcc71aa28fc2002ebd8a163f74d8/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.7] /Users/winnie/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/550dfcc71aa28fc2002ebd8a163f74d8/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:7:22-68
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:9:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:10:22-65
+application
+ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:13:5-39:19
+MERGED from [com.facebook.react:react-native:0.57.7] /Users/winnie/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/550dfcc71aa28fc2002ebd8a163f74d8/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.7] /Users/winnie/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/550dfcc71aa28fc2002ebd8a163f74d8/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/winnie/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/f4a550b1edee11858681dbd86323e529/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/winnie/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/f4a550b1edee11858681dbd86323e529/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/winnie/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/eeeecd00e3fd702735a72055751214a2/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/winnie/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/eeeecd00e3fd702735a72055751214a2/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:15:7-39
+	android:icon
+		ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:16:7-41
+	android:allowBackup
+		ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:17:7-34
+	android:theme
+		ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:18:7-38
+	android:name
+		ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:14:7-38
+service#com.callrecorder.service.RecService
+ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:20:7-69
+	android:name
+		ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:20:16-66
+receiver#com.callrecorder.receiver.RecReceiver
+ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:21:7-26:18
+	android:name
+		ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:21:17-69
+intent-filter#action:name:android.intent.action.NEW_OUTGOING_CALL+action:name:android.intent.action.PHONE_STATE
+ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:22:9-25:25
+	android:priority
+		ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:22:24-44
+action#android.intent.action.PHONE_STATE
+ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:23:11-70
+	android:name
+		ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:23:19-67
+action#android.intent.action.NEW_OUTGOING_CALL
+ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:24:11-76
+	android:name
+		ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:24:19-73
+activity#com.callrecorder.MainActivity
+ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:28:7-37:18
+	android:label
+		ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:30:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:32:9-51
+	android:configChanges
+		ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:31:9-79
+	android:name
+		ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:29:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:33:9-36:25
+action#android.intent.action.MAIN
+ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:34:13-65
+	android:name
+		ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:34:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:35:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:38:7-84
+	android:name
+		ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:38:17-81
+uses-sdk
+INJECTED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-sound] /Users/winnie/Desktop/CallRecorder/node_modules/react-native-sound/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-sound] /Users/winnie/Desktop/CallRecorder/node_modules/react-native-sound/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-audio] /Users/winnie/Desktop/CallRecorder/node_modules/react-native-audio/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-audio] /Users/winnie/Desktop/CallRecorder/node_modules/react-native-audio/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.7] /Users/winnie/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/550dfcc71aa28fc2002ebd8a163f74d8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.7] /Users/winnie/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/550dfcc71aa28fc2002ebd8a163f74d8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/winnie/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c373db89a267649ca794ddbe957d904d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/winnie/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c373db89a267649ca794ddbe957d904d/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/winnie/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/a081cda63e484151e4240b609c41c7f5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/winnie/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/a081cda63e484151e4240b609c41c7f5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/winnie/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/78a155f1d933e2fa21082d4dcdcc9753/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/winnie/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/78a155f1d933e2fa21082d4dcdcc9753/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/winnie/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/d815eceb6f17f30068a605d48cd6a1a9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/winnie/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/d815eceb6f17f30068a605d48cd6a1a9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/winnie/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/f0fb3d8b0fe9b474033643eefba044ef/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/winnie/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/f0fb3d8b0fe9b474033643eefba044ef/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/winnie/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/aebb2d7102cdee74fe68cc026222bae5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/winnie/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/aebb2d7102cdee74fe68cc026222bae5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/winnie/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/f4a550b1edee11858681dbd86323e529/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/winnie/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/f4a550b1edee11858681dbd86323e529/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/winnie/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/7e197545da88205f8a3e89fbd9ea3dcb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/winnie/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/7e197545da88205f8a3e89fbd9ea3dcb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/winnie/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/cafb6bd2703dc836cb11c10170e313c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/winnie/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/cafb6bd2703dc836cb11c10170e313c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/winnie/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/3a324051d32e621b7ad9646fbb0d2869/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/winnie/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/3a324051d32e621b7ad9646fbb0d2869/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/winnie/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/856bafc0ebdc7ce95b7f6dfeceec9b2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/winnie/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/856bafc0ebdc7ce95b7f6dfeceec9b2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/winnie/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/04d687adf56334ee63559f926ba8a347/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/winnie/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/04d687adf56334ee63559f926ba8a347/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/winnie/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/bce6a8fbf3a347f32870b862a770f949/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/winnie/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/bce6a8fbf3a347f32870b862a770f949/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/winnie/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/258df20ba2131c9b9e816ea6e8f86503/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/winnie/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/258df20ba2131c9b9e816ea6e8f86503/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/winnie/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7d158825d13e4ef62fda759195e94a7d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/winnie/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7d158825d13e4ef62fda759195e94a7d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/winnie/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/b29f318a88b597fb2d50b71342337b00/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/winnie/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/b29f318a88b597fb2d50b71342337b00/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/winnie/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/857703cdc450c79dd83038f39c38e9fd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/winnie/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/857703cdc450c79dd83038f39c38e9fd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/winnie/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2cc529319ab17aa385b4853ec1383f8c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/winnie/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2cc529319ab17aa385b4853ec1383f8c/AndroidManifest.xml:20:5-44
+INJECTED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:1:1-41:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/winnie/Desktop/CallRecorder/android/app/src/main/AndroidManifest.xml:1:1-41:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
